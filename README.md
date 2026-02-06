@@ -1,18 +1,21 @@
-This is a university-level assignment that I have completed. 
+# Monthly Budget Tracker (C#)
 
-Objectives
+## Overview
+A console-based financial tracking system built in C# to manage monthly incomes and expenses.
 
-• To use records to define immutable data structures.
+The application helps users analyze their cash flow by calculating the difference between total income and total expenses for each month.
 
-• To use tuples to return multiple values from methods.
+## Features
+- Add and track monthly income sources
+- Add and track expenses
+- Calculate monthly balance
+- Organized data management using collections
 
-• To practice working with collections (e.g., Lists, Dictionaries, and HashSets) to manage
-and organize data.
+## Technical Focus
+- C# record types for immutable data structures
+- Tuples for returning multiple values from methods
+- Use of List, Dictionary, and HashSet for structured data handling
+- Clean separation of responsibilities
 
-Description
-
-Families and businesses often need to analyze or plan their monthly cash-flow to find a balance
-between incomes and expenses. In this assignment, you will build an application to track
-expenses and incomes (revenues) on a monthly basis. The system will help users (individuals
-or businesses) understand their financial situation by calculating the difference between
-incomes and expenses for each month.
+## Purpose
+This project was built to strengthen my understanding of immutable data, structured collections, and financial data processing in C#.
